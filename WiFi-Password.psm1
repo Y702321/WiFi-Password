@@ -51,3 +51,4 @@ Auth type  : $AuthType
 Set-Alias WiFi-Password Show-WiFiPassword
 
 Export-ModuleMember -Function *WiFi* -Alias *WiFi*
+show wifi
